@@ -16,7 +16,7 @@ class ErrorPage extends StatelessWidget {
         const Center(child: Text('⛔', style: TextStyle(fontSize: 64))),
         Center(
           child: Text(
-            '❌Something went wrong❌',
+            '❌Something went wrong!❌',
             style: theme.textTheme.headline5,
           ),
         ),
